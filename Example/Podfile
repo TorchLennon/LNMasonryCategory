@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LNMasonryCategory_Example' do
+  pod 'LNMasonryCategory', :path => '../'
+
+  target 'LNMasonryCategory_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
