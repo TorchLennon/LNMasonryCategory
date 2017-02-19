@@ -1,0 +1,19 @@
+PODS:
+  - LNMasonryCategory (0.1.0):
+    - Masonry
+  - Masonry (1.0.2)
+
+DEPENDENCIES:
+  - LNMasonryCategory (from `../`)
+
+EXTERNAL SOURCES:
+  LNMasonryCategory:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LNMasonryCategory: d22c593c935f5711aa5e1c1fbc4690b93e757ae8
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+
+PODFILE CHECKSUM: 95d0ffa8546e5213c5215330b398e3cefc135e39
+
+COCOAPODS: 1.1.1

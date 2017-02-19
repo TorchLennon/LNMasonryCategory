@@ -1,0 +1,6 @@
+framework module LNMasonryCategory {
+  umbrella header "LNMasonryCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}
